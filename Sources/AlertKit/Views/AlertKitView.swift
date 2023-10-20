@@ -2,7 +2,7 @@ import UIKit
 import SwiftUI
 
 @available(iOS 13, visionOS 1, *)
-public class AlertAppleMusic17View: UIView, AlertViewProtocol {
+public class AlertKitView: UIView, AlertViewProtocol {
     
     open var dismissByTap: Bool = true
     open var dismissInTime: Bool = true
